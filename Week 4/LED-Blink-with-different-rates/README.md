@@ -1,4 +1,4 @@
-# LED-Blink-with-different-rates
+
 
 Hi everyone, this is a quick and simple tutorial on how to activate two LED using Arduino UNO.
 
